@@ -1,0 +1,1 @@
+$('.datalist').load(bu+'Admin/seat/seat_data');
